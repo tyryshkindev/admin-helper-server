@@ -1,0 +1,55 @@
+{
+    "servers": [
+        {
+            "id": 1,
+            "allowedRate": {
+                "pm": true,
+                "z": true,
+                "jail": true,
+                "mute": true,
+                "warn": true,
+                "ban": true,
+                "time": true
+            },
+            "minimumDailyRate": {
+                "pm": 200,
+                "jail": 5,
+                "time": 120
+            }
+        },
+        {
+            "id": 2,
+            "allowedRate": {
+                "pm": true,
+                "z": true,
+                "jail": true,
+                "mute": true,
+                "warn": true,
+                "ban": true,
+                "time": true
+            },
+            "minimumDailyRate": {
+                "pm": 250,
+                "jail": 5,
+                "time": 120
+            }
+        },
+        {
+            "id": 13,
+            "allowedRate": {
+                "pm": true,
+                "z": true,
+                "jail": true,
+                "mute": true,
+                "warn": true,
+                "ban": true,
+                "time": true
+            },
+            "minimumDailyRate": {
+                "pm": 300,
+                "jail": 5,
+                "time": 120
+            }
+        }
+    ]
+}
