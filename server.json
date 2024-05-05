@@ -346,5 +346,72 @@
             }
           ]
         }
+      ],
+      "players": [
+        {
+            "id": "1723477",
+            "nickname": "James_Davidson",
+            "isPlayerBanned": false,
+            "lvl": "66",
+            "adminLvl": "0",
+            "fraction": "МО",
+            "rank": "9",
+            "family": "Family Davidson",
+            "alist": [
+              {
+                "type": "fmute",
+                "time": "1714922957489",
+                "adminNick": "Valeriy_Tyryshkin",
+                "duration": "5690",
+                "reason": "Оскорбление родных"
+              },
+              {
+                "type": "rmute",
+                "time": "1714916988720",
+                "adminNick": "Valeriy_Tyryshkin",
+                "duration": "360",
+                "reason": "Оскорбление администрации"
+              },
+              {
+                "type": "jail",
+                "time": "1714916988720",
+                "adminNick": "Valeriy_Tyryshkin",
+                "duration": "120",
+                "reason": "Езда по полям рецидив"
+              },
+              {
+                "type": "jail",
+                "time": "1713195868827",
+                "adminNick": "Valeriy_Tyryshkin",
+                "duration": "60",
+                "reason": "Езда по полям"
+              }
+            ]
+        },
+        {
+            "id": "1728549",
+            "nickname": "Alex_Smith",
+            "isPlayerBanned": true,
+            "lvl": "1",
+            "adminLvl": "0",
+            "alist": [
+                {
+                    "type": "ban",
+                    "time":"1714917283977",
+                    "adminNick": "Valeriy_Tyryshkin",
+                    "duration": "-1",
+                    "reason": "Использование читов"
+                }
+            ]
+        },
+        {
+            "id": "1728009",
+            "nickname": "Anton_Banditov",
+            "isPlayerBanned": false,
+            "lvl": "13",
+            "adminLvl": "0",
+            "family": "Banditov Squad",
+            "alist": []
+        }
       ]
 }
