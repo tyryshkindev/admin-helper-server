@@ -13,9 +13,9 @@
       },
       "minimumDailyRate": {
         "helper": {
-            "pm": 50,
-            "z": 50,
-            "time": 180
+          "pm": 50,
+          "z": 50,
+          "time": 180
         },
         "admin": {
           "pm": 200,
@@ -396,6 +396,56 @@
       "lvl": "71",
       "adminLvl": "5",
       "serverID": 1
+    },
+    {
+      "id": "17243291",
+      "nickname": "Second_Lvl",
+      "password": "secondLvl123",
+      "lvl": "23",
+      "adminLvl": "2",
+      "serverID": 1,
+      "rate": [
+        {
+          "pm": 50,
+          "z": 50,
+          "time": 180
+        },
+        {
+          "pm": 58,
+          "z": 51,
+          "time": 197
+        },
+        {
+          "pm": 67,
+          "z": 59,
+          "time": 201
+        },
+        {
+          "pm": 72,
+          "z": 53,
+          "time": 184
+        },
+        {
+          "pm": 74,
+          "z": 60,
+          "time": 181
+        },
+        {
+          "pm": 63,
+          "z": 57,
+          "time": 220
+        },
+        {
+          "pm": 73,
+          "z": 60,
+          "time": 215
+        },
+        {
+          "pm": 69,
+          "z": 60,
+          "time": 210
+        }
+      ]
     }
   ],
   "players": [
@@ -409,6 +459,27 @@
       "rank": "9",
       "family": "Family Davidson",
       "alist": [
+        {
+          "type": "rmute",
+          "time": "1715868765316",
+          "adminNick": "Head_Administrator",
+          "reason": "osk adm",
+          "duration": 120
+        },
+        {
+          "type": "fmute",
+          "time": "1715844714383",
+          "adminNick": "Second_Lvl",
+          "reason": "osk rodnih",
+          "duration": 5760
+        },
+        {
+          "type": "warn",
+          "time": "1715598906610",
+          "adminNick": "Head_Administrator",
+          "reason": "off ot aresta",
+          "duration": 0
+        },
         {
           "type": "fmute",
           "time": "1714922957489",
@@ -463,6 +534,13 @@
       "adminLvl": "0",
       "family": "Banditov Squad",
       "alist": [
+        {
+          "type": "mute",
+          "time": "1715611696656",
+          "adminNick": "Second_Lvl",
+          "reason": "MetaGaming",
+          "duration": 60
+        },
         {
           "type": "warn",
           "time": "1715091977316",
