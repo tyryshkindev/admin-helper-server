@@ -332,6 +332,566 @@
       ]
     },
     {
+      "id": "1892345",
+      "serverID": 1,
+      "nickname": "Best_Admin",
+      "password": "BestAdmin999",
+      "lvl": "43",
+      "adminLvl": "4",
+      "rate": [
+        {
+          "pm": 941,
+          "z": 118,
+          "jail": 55,
+          "mute": 39,
+          "warn": 11,
+          "ban": 14,
+          "time": 516
+        },
+        {
+          "pm": 905,
+          "z": 102,
+          "jail": 59,
+          "mute": 41,
+          "warn": 19,
+          "ban": 30,
+          "time": 462
+        },
+        {
+          "pm": 851,
+          "z": 85,
+          "jail": 84,
+          "mute": 42,
+          "warn": 19,
+          "ban": 15,
+          "time": 483
+        },
+        {
+          "pm": 1127,
+          "z": 74,
+          "jail": 73,
+          "mute": 35,
+          "warn": 13,
+          "ban": 19,
+          "time": 567
+        },
+        {
+          "pm": 916,
+          "z": 143,
+          "jail": 67,
+          "mute": 41,
+          "warn": 11,
+          "ban": 18,
+          "time": 520
+        },
+        {
+          "pm": 846,
+          "z": 91,
+          "jail": 54,
+          "mute": 39,
+          "warn": 11,
+          "ban": 20,
+          "time": 424
+        },
+        {
+          "pm": 829,
+          "z": 75,
+          "jail": 57,
+          "mute": 49,
+          "warn": 11,
+          "ban": 17,
+          "time": 565
+        },
+        {
+          "pm": 1193,
+          "z": 106,
+          "jail": 87,
+          "mute": 38,
+          "warn": 11,
+          "ban": 26,
+          "time": 542
+        },
+        {
+          "pm": 1002,
+          "z": 85,
+          "jail": 47,
+          "mute": 28,
+          "warn": 13,
+          "ban": 14,
+          "time": 445
+        },
+        {
+          "pm": 1081,
+          "z": 105,
+          "jail": 91,
+          "mute": 46,
+          "warn": 9,
+          "ban": 14,
+          "time": 423
+        },
+        {
+          "pm": 1082,
+          "z": 62,
+          "jail": 94,
+          "mute": 39,
+          "warn": 17,
+          "ban": 10,
+          "time": 482
+        },
+        {
+          "pm": 932,
+          "z": 148,
+          "jail": 74,
+          "mute": 25,
+          "warn": 14,
+          "ban": 18,
+          "time": 435
+        },
+        {
+          "pm": 985,
+          "z": 142,
+          "jail": 59,
+          "mute": 23,
+          "warn": 20,
+          "ban": 24,
+          "time": 474
+        },
+        {
+          "pm": 1039,
+          "z": 129,
+          "jail": 46,
+          "mute": 35,
+          "warn": 9,
+          "ban": 17,
+          "time": 496
+        },
+        {
+          "pm": 1006,
+          "z": 56,
+          "jail": 84,
+          "mute": 33,
+          "warn": 11,
+          "ban": 27,
+          "time": 440
+        },
+        {
+          "pm": 808,
+          "z": 110,
+          "jail": 80,
+          "mute": 38,
+          "warn": 15,
+          "ban": 15,
+          "time": 539
+        },
+        {
+          "pm": 884,
+          "z": 89,
+          "jail": 98,
+          "mute": 25,
+          "warn": 15,
+          "ban": 28,
+          "time": 593
+        },
+        {
+          "pm": 952,
+          "z": 122,
+          "jail": 93,
+          "mute": 49,
+          "warn": 7,
+          "ban": 22,
+          "time": 477
+        },
+        {
+          "pm": 1023,
+          "z": 51,
+          "jail": 44,
+          "mute": 37,
+          "warn": 17,
+          "ban": 22,
+          "time": 533
+        },
+        {
+          "pm": 914,
+          "z": 81,
+          "jail": 77,
+          "mute": 44,
+          "warn": 20,
+          "ban": 11,
+          "time": 472
+        },
+        {
+          "pm": 1076,
+          "z": 115,
+          "jail": 69,
+          "mute": 28,
+          "warn": 19,
+          "ban": 30,
+          "time": 486
+        },
+        {
+          "pm": 955,
+          "z": 138,
+          "jail": 57,
+          "mute": 37,
+          "warn": 20,
+          "ban": 26,
+          "time": 439
+        },
+        {
+          "pm": 971,
+          "z": 132,
+          "jail": 40,
+          "mute": 35,
+          "warn": 7,
+          "ban": 11,
+          "time": 459
+        },
+        {
+          "pm": 941,
+          "z": 55,
+          "jail": 95,
+          "mute": 27,
+          "warn": 18,
+          "ban": 28,
+          "time": 531
+        },
+        {
+          "pm": 922,
+          "z": 126,
+          "jail": 86,
+          "mute": 35,
+          "warn": 13,
+          "ban": 23,
+          "time": 458
+        },
+        {
+          "pm": 1110,
+          "z": 132,
+          "jail": 60,
+          "mute": 33,
+          "warn": 15,
+          "ban": 10,
+          "time": 489
+        },
+        {
+          "pm": 901,
+          "z": 140,
+          "jail": 84,
+          "mute": 25,
+          "warn": 14,
+          "ban": 21,
+          "time": 595
+        },
+        {
+          "pm": 829,
+          "z": 138,
+          "jail": 89,
+          "mute": 36,
+          "warn": 20,
+          "ban": 11,
+          "time": 475
+        },
+        {
+          "pm": 1139,
+          "z": 90,
+          "jail": 62,
+          "mute": 39,
+          "warn": 18,
+          "ban": 11,
+          "time": 540
+        },
+        {
+          "pm": 860,
+          "z": 148,
+          "jail": 70,
+          "mute": 46,
+          "warn": 17,
+          "ban": 10,
+          "time": 548
+        }
+      ]
+    },
+    {
+      "id": "1892345",
+      "serverID": 1,
+      "nickname": "Xtwo_Admin",
+      "password": "Xtwo_AdminJune",
+      "lvl": "23",
+      "adminLvl": "4",
+      "rate": [
+        {
+          "pm": 455,
+          "z": 21,
+          "jail": 32,
+          "mute": 16,
+          "warn": 17,
+          "ban": 15,
+          "time": 170
+        },
+        {
+          "pm": 522,
+          "z": 27,
+          "jail": 55,
+          "mute": 33,
+          "warn": 15,
+          "ban": 20,
+          "time": 175
+        },
+        {
+          "pm": 574,
+          "z": 25,
+          "jail": 22,
+          "mute": 22,
+          "warn": 17,
+          "ban": 23,
+          "time": 192
+        },
+        {
+          "pm": 571,
+          "z": 30,
+          "jail": 50,
+          "mute": 15,
+          "warn": 6,
+          "ban": 19,
+          "time": 137
+        },
+        {
+          "pm": 527,
+          "z": 36,
+          "jail": 43,
+          "mute": 18,
+          "warn": 11,
+          "ban": 13,
+          "time": 212
+        },
+        {
+          "pm": 533,
+          "z": 24,
+          "jail": 53,
+          "mute": 26,
+          "warn": 6,
+          "ban": 11,
+          "time": 184
+        },
+        {
+          "pm": 543,
+          "z": 33,
+          "jail": 42,
+          "mute": 24,
+          "warn": 9,
+          "ban": 13,
+          "time": 162
+        },
+        {
+          "pm": 527,
+          "z": 33,
+          "jail": 27,
+          "mute": 21,
+          "warn": 7,
+          "ban": 20,
+          "time": 157
+        },
+        {
+          "pm": 520,
+          "z": 34,
+          "jail": 39,
+          "mute": 29,
+          "warn": 14,
+          "ban": 25,
+          "time": 151
+        },
+        {
+          "pm": 452,
+          "z": 32,
+          "jail": 27,
+          "mute": 34,
+          "warn": 14,
+          "ban": 23,
+          "time": 203
+        },
+        {
+          "pm": 509,
+          "z": 38,
+          "jail": 39,
+          "mute": 18,
+          "warn": 17,
+          "ban": 24,
+          "time": 141
+        },
+        {
+          "pm": 554,
+          "z": 21,
+          "jail": 50,
+          "mute": 29,
+          "warn": 13,
+          "ban": 18,
+          "time": 239
+        },
+        {
+          "pm": 485,
+          "z": 23,
+          "jail": 31,
+          "mute": 16,
+          "warn": 16,
+          "ban": 9,
+          "time": 173
+        },
+        {
+          "pm": 484,
+          "z": 39,
+          "jail": 32,
+          "mute": 25,
+          "warn": 5,
+          "ban": 24,
+          "time": 191
+        },
+        {
+          "pm": 486,
+          "z": 29,
+          "jail": 22,
+          "mute": 22,
+          "warn": 7,
+          "ban": 7,
+          "time": 163
+        },
+        {
+          "pm": 501,
+          "z": 36,
+          "jail": 50,
+          "mute": 26,
+          "warn": 8,
+          "ban": 25,
+          "time": 161
+        },
+        {
+          "pm": 527,
+          "z": 21,
+          "jail": 24,
+          "mute": 28,
+          "warn": 11,
+          "ban": 6,
+          "time": 218
+        },
+        {
+          "pm": 454,
+          "z": 35,
+          "jail": 18,
+          "mute": 13,
+          "warn": 7,
+          "ban": 10,
+          "time": 182
+        },
+        {
+          "pm": 486,
+          "z": 36,
+          "jail": 33,
+          "mute": 22,
+          "warn": 6,
+          "ban": 22,
+          "time": 235
+        },
+        {
+          "pm": 575,
+          "z": 21,
+          "jail": 31,
+          "mute": 20,
+          "warn": 13,
+          "ban": 11,
+          "time": 185
+        },
+        {
+          "pm": 544,
+          "z": 21,
+          "jail": 46,
+          "mute": 19,
+          "warn": 15,
+          "ban": 12,
+          "time": 141
+        },
+        {
+          "pm": 561,
+          "z": 30,
+          "jail": 36,
+          "mute": 34,
+          "warn": 11,
+          "ban": 18,
+          "time": 126
+        },
+        {
+          "pm": 473,
+          "z": 28,
+          "jail": 25,
+          "mute": 28,
+          "warn": 5,
+          "ban": 12,
+          "time": 164
+        },
+        {
+          "pm": 532,
+          "z": 31,
+          "jail": 50,
+          "mute": 17,
+          "warn": 13,
+          "ban": 7,
+          "time": 140
+        },
+        {
+          "pm": 542,
+          "z": 29,
+          "jail": 25,
+          "mute": 34,
+          "warn": 6,
+          "ban": 7,
+          "time": 138
+        },
+        {
+          "pm": 478,
+          "z": 39,
+          "jail": 20,
+          "mute": 19,
+          "warn": 7,
+          "ban": 10,
+          "time": 147
+        },
+        {
+          "pm": 459,
+          "z": 28,
+          "jail": 48,
+          "mute": 27,
+          "warn": 11,
+          "ban": 23,
+          "time": 238
+        },
+        {
+          "pm": 516,
+          "z": 32,
+          "jail": 51,
+          "mute": 21,
+          "warn": 5,
+          "ban": 11,
+          "time": 167
+        },
+        {
+          "pm": 494,
+          "z": 27,
+          "jail": 41,
+          "mute": 16,
+          "warn": 14,
+          "ban": 17,
+          "time": 221
+        },
+        {
+          "pm": 595,
+          "z": 32,
+          "jail": 43,
+          "mute": 11,
+          "warn": 10,
+          "ban": 15,
+          "time": 141
+        }
+      ]
+    },
+    {
       "id": "1723454",
       "serverID": 1,
       "nickname": "Third_Lvl",
@@ -816,8 +1376,7 @@
           "type": "warn",
           "time": "1715091977316",
           "adminNick": "Valeriy_Tyryshkin",
-          "reason": "Off ot RP",
-          "duration": ""
+          "reason": "Off ot RP"
         }
       ]
     }
